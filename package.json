@@ -1,0 +1,21 @@
+{
+  "name": "autotable",
+  "version": "1.0.0",
+  "description": "Automatic CSS table styles generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "dependencies": {
+    "colors.css": "^2.3.0",
+    "jss": "^1.0.8",
+    "jss-camel-case": "^0.1.1",
+    "lodash": "^3.6.0",
+    "color": "^0.8.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
